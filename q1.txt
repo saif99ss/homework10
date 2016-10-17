@@ -1,4 +1,5 @@
 javascript
+-----=
 a = ["john", "mike", "susan", "matt", "joe", "larry", "ken", "samantha", "jenny", "Sara", "henry"];
 
 var i=2;
