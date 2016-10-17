@@ -1,0 +1,31 @@
+java script
+
+b = [5, 10, 23, 10, 7, 9, 39, 16, 1, 12, 36, 20, 50];
+var i=0;
+while (i<b.length){
+    
+    if(  b[i]%2===0  ){ 
+            console.log(b[i]-1);
+
+        
+    } else {
+          console.log(b[i]*2);
+    }
+    i = i+1;
+    
+    }
+    
+    
+    ruby
+    b = [5, 10, 23, 10, 7, 9, 39, 16, 1, 12, 36, 20, 50]
+b.each do |n|
+    if (n %2==0)
+        puts n-1
+    else
+        puts n*2
+    end 
+end
+    
+  
+
+
