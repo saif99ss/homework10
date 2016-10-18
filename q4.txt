@@ -1,0 +1,20 @@
+javascript
+a = ["john", "mike", "susan", "matt", "joe", "larry", "ken", "samantha", "jenny", "Sara", "henry"];
+var i=0;
+
+while(i  <a.length){
+      a.reverse();
+console.log(a[i])
+    i=i+1;
+}
+
+ruby
+
+a = ["john", "mike", "susan", "matt", "joe", "larry", "ken", "samantha", "jenny", "Sara", "henry"]
+ i=0
+
+while(i  <a.length)
+     a.reverse!
+puts(a[i])
+    i=i+1
+end
